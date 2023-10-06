@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Cox's Bazar",
+    "location": "Chittagong Division",
+    "details": "Cox's Bazar is famous for having the longest natural sea beach in the world. The beach stretches for approximately 120 kilometers along the southeastern coastline of Bangladesh. Visitors come here to enjoy the sun, sand, and serene sea views.",
+    "image": "https://i.ibb.co/G0VkZmV/Rectangle-1.png"
+  },
+  {
+    "id": "2",
+    "name": "Sundarbans",
+    "location": "Khulna Division",
+    "details": "The Sundarbans is the largest mangrove forest in the world and a UNESCO World Heritage Site. It is home to the Bengal tiger and a diverse range of wildlife. The lush greenery and intricate network of waterways make it a unique and beautiful destination for nature lovers.",
+    "image": "https://i.ibb.co/yskFGpc/sundorbon.png"
+  },
+  {
+    "id": "3",
+    "name": "Sreemangal",
+    "location": "Sylhet Division",
+    "details": "Sreemangal is known as the 'Tea Capital of Bangladesh.' It boasts lush tea gardens that stretch as far as the eye can see. Visitors can explore the tea estates, sample exquisite teas, and immerse themselves in the serene natural beauty of the region.",
+    "image": "https://i.ibb.co/G7tyNRK/Sreemongol.png"
+  },
+  {
+    "id": "4",
+    "name": "Sreemangal",
+    "location": "Sylhet Division",
+    "details": "Sreemangal is known as the 'Tea Capital of Bangladesh.' It boasts lush tea gardens that stretch as far as the eye can see. Visitors can explore the tea estates, sample exquisite teas, and immerse themselves in the serene natural beauty of the region.",
+    "image": "https://i.ibb.co/G7tyNRK/Sreemongol.png"
+  }
+]

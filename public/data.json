@@ -1,0 +1,32 @@
+[
+  {
+    "id": "101",
+    "placeName": "Cox's Bazar",
+    "details": "Cox's Bazar is a picturesque coastal town in Bangladesh, known for its golden sandy beaches that stretch for miles along the Bay of Bengal. It's a perfect destination for a relaxing beach vacation.",
+    "tourCost": "$800 (per person)"
+  },
+  {
+    "id": "102",
+    "placeName": "Sundarbans",
+    "details": "The Sundarbans is a UNESCO World Heritage Site, famous for its dense mangrove forests and diverse wildlife, including the elusive Bengal tiger. Explore the beauty of this unique ecosystem.",
+    "tourCost": "$1,200 (per person)"
+  },
+  {
+    "id": "103",
+    "placeName": "Sreemongol",
+    "details": "Sreemongol is a charming town often referred to as the 'Tea Capital of Bangladesh.' It's surrounded by lush tea gardens and offers a tranquil escape for nature enthusiasts.",
+    "tourCost": "$500 (per person)"
+  },
+  {
+    "id": "104",
+    "placeName": "Bandarban",
+    "details": "Bandarban is a hill district in southeastern Bangladesh known for its breathtaking landscapes, waterfalls, and rich tribal culture. It's an adventurer's paradise with numerous trekking opportunities.",
+    "tourCost": "$700 (per person)"
+  }
+]
+
+
+
+
+
+
